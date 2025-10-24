@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sistema de Cálculo de Bônus</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Sistema de Cálculo de Bônus</h1>
+    </header>
+
+    <main>
+      <section class="form-section">
+        <label for="nomeFuncionario">Digite o nome do funcionário:</label>
+        <input type="text" id="nomeFuncionario" placeholder="Ex: Marcos Daniel">
+        <button id="buscarFuncionario">Buscar</button>
+        <p id="resultadoBusca"></p>
+      </section>
+
+      <section class="avaliacao-section hidden">
+        <h2>Avaliação dos Supervisores</h2>
+        <div id="notasContainer"></div>
+        <button id="calcularBonus">Calcular Bônus</button>
+      </section>
+
+      <section id="resultadoFinal" class="resultado-section hidden"></section>
+
+      <section class="historico-section hidden">
+        <h2>Histórico de Cálculos</h2>
+        <ul id="historico"></ul>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2025 - Sistema Empresarial</p>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

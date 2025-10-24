@@ -1,0 +1,14 @@
+C:\Users\marco\OneDrive\Desktop\EsteBonus\Bonus\bin\Debug\net9.0\Bonus.exe
+C:\Users\marco\OneDrive\Desktop\EsteBonus\Bonus\bin\Debug\net9.0\Bonus.deps.json
+C:\Users\marco\OneDrive\Desktop\EsteBonus\Bonus\bin\Debug\net9.0\Bonus.runtimeconfig.json
+C:\Users\marco\OneDrive\Desktop\EsteBonus\Bonus\bin\Debug\net9.0\Bonus.dll
+C:\Users\marco\OneDrive\Desktop\EsteBonus\Bonus\bin\Debug\net9.0\Bonus.pdb
+C:\Users\marco\OneDrive\Desktop\EsteBonus\Bonus\obj\Debug\net9.0\Bonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Desktop\EsteBonus\Bonus\obj\Debug\net9.0\Bonus.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Desktop\EsteBonus\Bonus\obj\Debug\net9.0\Bonus.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Desktop\EsteBonus\Bonus\obj\Debug\net9.0\Bonus.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Desktop\EsteBonus\Bonus\obj\Debug\net9.0\Bonus.dll
+C:\Users\marco\OneDrive\Desktop\EsteBonus\Bonus\obj\Debug\net9.0\refint\Bonus.dll
+C:\Users\marco\OneDrive\Desktop\EsteBonus\Bonus\obj\Debug\net9.0\Bonus.pdb
+C:\Users\marco\OneDrive\Desktop\EsteBonus\Bonus\obj\Debug\net9.0\Bonus.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Desktop\EsteBonus\Bonus\obj\Debug\net9.0\ref\Bonus.dll
